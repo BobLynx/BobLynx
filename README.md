@@ -14,7 +14,7 @@
 - 📫 How to reach me -
 - You can contact me by adding me (Mushd#7032) as a friend in discord!
 - 
-- Things you need to know -
+- 🗒️ Things you need to know -
 - I get easily hurt emotionally so...
 - Please watch out for your words!
 <!---
