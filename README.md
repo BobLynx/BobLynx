@@ -18,7 +18,7 @@
 - I get easily hurt emotionally so...
 - Please watch out for your words!
 - 
-- + I'm a highschool student, so I won't be so active.
++ I'm a highschool student, so I won't be so active.
 <!---
 BobLynx/BobLynx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
