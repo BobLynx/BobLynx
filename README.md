@@ -12,7 +12,7 @@
 - Currently I'm working on nothing. Lazy boy heh
 - 
 - 📫 How to reach me -
-- You can contact me by adding me (Mushd#7032) as a friend in discord!
+- You can contact me by adding me (mushd#7032) as a friend in discord!
 - 
 - 🗒️ Things you need to know -
 - I get easily hurt emotionally so...
