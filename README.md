@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BobLynx, also Mushd and Spiffy.
-- You can just simply call me Bob!
+- 👋 Hi, I’m @BobLynx, also mush and Eddie.
+- You may just simply call me Bob, or Eddie!
 - 
 - 👀 I’m interested in -
 - Coding and Aviation!
@@ -9,14 +9,13 @@
 - C++!
 - 
 - 💞️ I’m currently working on -
-- Currently I'm working on nothing. Lazy boy heh
+- Currently I'm working on GTKMM program development!
 - 
 - 📫 How to reach me -
 - You can contact me by adding me (mushd#7032) as a friend in discord!
 - 
 - 🗒️ Things you need to know -
-- I get easily hurt emotionally so...
-- Please watch out for your words!
+- I am not a fan of harsh words...
 - 
 + I'm a highschool student, so I won't be so active.
 <!---
