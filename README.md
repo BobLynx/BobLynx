@@ -4,7 +4,7 @@
 - Coding and Aviation!
 - 
 - 🌱 I’m currently learning -
-- C++
+- C++, Java and Computer Architecture.
 - 
 - 💞️ I’m currently working on -
 - Currently I'm working on CLI Minesweeper project.
