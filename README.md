@@ -1,4 +1,7 @@
-- Hi.
+- Hi, welcome to my page.
+
+- Contact me through here.
+- boplynx@gmail.com
 <!---
 - 
 - 👀 I’m interested in -
